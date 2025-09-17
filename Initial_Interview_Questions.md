@@ -1,6 +1,6 @@
 **Develop an outline of the topics and questions that could be discussed in the initial client interview.**
 **There should be at least 1 broad question, and at least 1 potential follow up question from each of the 6 major elements of the "Things you need to find out" 
-slide from the Initial Client Interview lecture slides. THE USE OF AI IS NOT PERMITTED FOR THIS ASSIGNMENT.**
+slide from the Initial Client Interview lecture slides**
 1. Can you give a brief overview of the project? Research question? Focus?
 - What is the timeline for the project?
 - Who is your intended audience or who or what is this project for (Mission Statement).
